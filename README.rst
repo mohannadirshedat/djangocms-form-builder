@@ -20,9 +20,9 @@ djangocms-forms
 .. image:: http://img.shields.io/coveralls/mishbahr/djangocms-forms.svg?style=flat-square
   :target: https://coveralls.io/r/mishbahr/djangocms-forms?branch=master
 
-This project requires django-cms v3.0 or higher to be properly installed and configured.
+This project requires django-cms v3.7 or higher to be properly installed and configured.
 
-This package is compatible with `Aldryn <http://www.aldryn.com/en/marketplace/djangocms-forms/>`_.
+This package is updated by Mohannad Irshedat
 
 
 Quickstart
@@ -30,7 +30,7 @@ Quickstart
 
 1. Install ``djangocms-forms``::
 
-    pip install djangocms-forms
+    pip install git+https://github.com/mohannadirshedat/djangocms-form-builder
 
 2. Add ``djangocms_forms`` to ``INSTALLED_APPS``::
 
@@ -131,14 +131,3 @@ Preview
   :align: center
 
 
-You may also like...
---------------------
-
-* djangocms-disqus - https://github.com/mishbahr/djangocms-disqus
-* djangocms-embed - https://github.com/mishbahr/djangocms-embed
-* djangocms-fbcomments - https://github.com/mishbahr/djangocms-fbcomments
-* djangocms-gmaps - https://github.com/mishbahr/djangocms-gmaps
-* djangocms-instagram - https://github.com/mishbahr/djangocms-instagram
-* djangocms-responsive-wrapper - https://github.com/mishbahr/djangocms-responsive-wrapper
-* djangocms-twitter2 - https://github.com/mishbahr/djangocms-twitter2
-* djangocms-youtube - https://github.com/mishbahr/djangocms-youtube
