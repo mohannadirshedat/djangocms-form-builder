@@ -1,5 +1,5 @@
 ================
-djangocms-forms
+djangocms-forms-forms-builder
 ================
 
 
