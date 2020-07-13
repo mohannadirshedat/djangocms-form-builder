@@ -2,23 +2,6 @@
 djangocms-forms
 ================
 
-.. image:: http://img.shields.io/travis/mishbahr/djangocms-forms.svg?style=flat-square
-    :target: https://travis-ci.org/mishbahr/djangocms-forms/
-
-.. image:: http://img.shields.io/pypi/v/djangocms-forms.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/djangocms-forms/
-    :alt: Latest Version
-
-.. image:: http://img.shields.io/pypi/dm/djangocms-forms.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/djangocms-forms/
-    :alt: Downloads
-
-.. image:: http://img.shields.io/pypi/l/djangocms-forms.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/djangocms-forms/
-    :alt: License
-
-.. image:: http://img.shields.io/coveralls/mishbahr/djangocms-forms.svg?style=flat-square
-  :target: https://coveralls.io/r/mishbahr/djangocms-forms?branch=master
 
 This project requires django-cms v3.7 or higher to be properly installed and configured.
 
